@@ -1,10 +1,11 @@
-import React from 'react';
-
+import React from "react";
+// Components //
+import { Home } from "./components";
 
 function App() {
   return (
     <>
-      <h1>Hello</h1>
+      <Home />
     </>
   );
 }
